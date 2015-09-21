@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sbfnti" name="sisviagem.SolicitacaoSpec" tests="1" time="0.051" timestamp="2015-09-18T12:28:54">
+  <properties />
+  <testcase classname="sisviagem.SolicitacaoSpec" name="test Contraints invalid" time="0.046" />
+  <system-out><![CDATA[--Output from test Contraints invalid--
+]]></system-out>
+  <system-err><![CDATA[--Output from test Contraints invalid--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="0" name="MotoristaControllerSpec" package="sisviagem" tests="7" time="0.473" timestamp="2015-09-18T12:28:52">
+      <properties />
+
+      <testcase classname="sisviagem.MotoristaControllerSpec" name="Test the index action returns the correct model" time="0.209" />
+
+      <testcase classname="sisviagem.MotoristaControllerSpec" name="Test the create action returns the correct model" time="0.031" />
+
+      <testcase classname="sisviagem.MotoristaControllerSpec" name="Test the save action correctly persists an instance" time="0.056" />
+
+      <testcase classname="sisviagem.MotoristaControllerSpec" name="Test that the show action returns the correct model" time="0.03" />
+
+      <testcase classname="sisviagem.MotoristaControllerSpec" name="Test that the edit action returns the correct model" time="0.028" />
+
+      <testcase classname="sisviagem.MotoristaControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.061" />
+
+      <testcase classname="sisviagem.MotoristaControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.041" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="1" name="MotoristaSpec" package="sisviagem" tests="3" time="1.843" timestamp="2015-09-18T12:28:49">
+      <properties />
+
+      <testcase classname="sisviagem.MotoristaSpec" name="test Contraints valid" time="1.721" />
+
+      <testcase classname="sisviagem.MotoristaSpec" name="test Contraints invalid" time="0.026" />
+
+      <testcase classname="sisviagem.MotoristaSpec" name="test unicidade cnh" time="0.064" />
+
+      <system-out><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade cnh--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade cnh--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="2" name="SetorControllerSpec" package="sisviagem" tests="7" time="0.354" timestamp="2015-09-18T12:28:53">
+      <properties />
+
+      <testcase classname="sisviagem.SetorControllerSpec" name="Test the index action returns the correct model" time="0.168" />
+
+      <testcase classname="sisviagem.SetorControllerSpec" name="Test the create action returns the correct model" time="0.016" />
+
+      <testcase classname="sisviagem.SetorControllerSpec" name="Test the save action correctly persists an instance" time="0.039" />
+
+      <testcase classname="sisviagem.SetorControllerSpec" name="Test that the show action returns the correct model" time="0.016" />
+
+      <testcase classname="sisviagem.SetorControllerSpec" name="Test that the edit action returns the correct model" time="0.015" />
+
+      <testcase classname="sisviagem.SetorControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.061" />
+
+      <testcase classname="sisviagem.SetorControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.028" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="3" name="SetorSpec" package="sisviagem" tests="3" time="0.072" timestamp="2015-09-18T12:28:53">
+      <properties />
+
+      <testcase classname="sisviagem.SetorSpec" name="test Contraints valid" time="0.048" />
+
+      <testcase classname="sisviagem.SetorSpec" name="test Contraints invalid" time="0.007" />
+
+      <testcase classname="sisviagem.SetorSpec" name="test unicidade nome" time="0.01" />
+
+      <system-out><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade nome--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade nome--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="4" name="SolicitacaoControllerSpec" package="sisviagem" tests="3" time="1.636" timestamp="2015-09-18T12:28:51">
+      <properties />
+
+      <testcase classname="sisviagem.SolicitacaoControllerSpec" name="Test the index action returns the correct model" time="1.393" />
+
+      <testcase classname="sisviagem.SolicitacaoControllerSpec" name="Test the create action returns the correct model" time="0.036" />
+
+      <testcase classname="sisviagem.SolicitacaoControllerSpec" name="Test the save action correctly persists an instance" time="0.192" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="5" name="SolicitacaoSpec" package="sisviagem" tests="1" time="0.051" timestamp="2015-09-18T12:28:54">
+      <properties />
+
+      <testcase classname="sisviagem.SolicitacaoSpec" name="test Contraints invalid" time="0.046" />
+
+      <system-out><![CDATA[--Output from test Contraints invalid--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test Contraints invalid--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="6" name="UserControllerSpec" package="sisviagem" tests="3" time="0.286" timestamp="2015-09-18T12:28:53">
+      <properties />
+
+      <testcase classname="sisviagem.UserControllerSpec" name="Test the index action returns the correct model" time="0.216" />
+
+      <testcase classname="sisviagem.UserControllerSpec" name="Test that the show action returns the correct model" time="0.031" />
+
+      <testcase classname="sisviagem.UserControllerSpec" name="Test that the edit action returns the correct model" time="0.027" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="7" name="VeiculoControllerSpec" package="sisviagem" tests="7" time="0.273" timestamp="2015-09-18T12:28:53">
+      <properties />
+
+      <testcase classname="sisviagem.VeiculoControllerSpec" name="Test the index action returns the correct model" time="0.116" />
+
+      <testcase classname="sisviagem.VeiculoControllerSpec" name="Test the create action returns the correct model" time="0.015" />
+
+      <testcase classname="sisviagem.VeiculoControllerSpec" name="Test the save action correctly persists an instance" time="0.036" />
+
+      <testcase classname="sisviagem.VeiculoControllerSpec" name="Test that the show action returns the correct model" time="0.014" />
+
+      <testcase classname="sisviagem.VeiculoControllerSpec" name="Test that the edit action returns the correct model" time="0.014" />
+
+      <testcase classname="sisviagem.VeiculoControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.039" />
+
+      <testcase classname="sisviagem.VeiculoControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.027" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="8" name="VeiculoSpec" package="sisviagem" tests="3" time="0.156" timestamp="2015-09-18T12:28:53">
+      <properties />
+
+      <testcase classname="sisviagem.VeiculoSpec" name="test Contraints valid" time="0.101" />
+
+      <testcase classname="sisviagem.VeiculoSpec" name="test Contraints invalid" time="0.015" />
+
+      <testcase classname="sisviagem.VeiculoSpec" name="test unicidade placa" time="0.031" />
+
+      <system-out><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade placa--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade placa--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sbfnti" id="9" name="ViagemControllerSpec" package="sisviagem" tests="2" time="0.149" timestamp="2015-09-18T12:28:54">
+      <properties />
+
+      <testcase classname="sisviagem.ViagemControllerSpec" name="Test the index action returns the correct model" time="0.124" />
+
+      <testcase classname="sisviagem.ViagemControllerSpec" name="Test that the show action returns the correct model" time="0.019" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

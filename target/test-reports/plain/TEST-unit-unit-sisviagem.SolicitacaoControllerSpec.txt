@@ -1,0 +1,16 @@
+Testsuite: sisviagem.SolicitacaoControllerSpec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 1,636 sec
+------------- Standard Output ---------------
+--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+------------- ---------------- ---------------
+
+Testcase: Test the index action returns the correct model took 1,393 sec
+Testcase: Test the create action returns the correct model took 0,036 sec
+Testcase: Test the save action correctly persists an instance took 0,192 sec

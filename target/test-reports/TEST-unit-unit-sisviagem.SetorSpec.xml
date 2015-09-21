@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sbfnti" name="sisviagem.SetorSpec" tests="3" time="0.072" timestamp="2015-09-18T12:28:53">
+  <properties />
+  <testcase classname="sisviagem.SetorSpec" name="test Contraints valid" time="0.048" />
+  <testcase classname="sisviagem.SetorSpec" name="test Contraints invalid" time="0.007" />
+  <testcase classname="sisviagem.SetorSpec" name="test unicidade nome" time="0.01" />
+  <system-out><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade nome--
+]]></system-out>
+  <system-err><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade nome--
+]]></system-err>
+</testsuite>

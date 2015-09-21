@@ -1,0 +1,129 @@
+body {
+  padding-top: 50px;
+  background-color: #eee;
+  font-size: 11px;
+}
+
+.navbar-inverse.navbar {
+    background-color: #006687;
+}
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:10px !important;
+    padding-bottom:0 !important;
+    height: 40px;
+}
+.navbar {min-height:40px !important;}
+
+.navbar-fixed-top {
+  border: 0;
+}
+
+.logo {
+  font-size: 16px;
+  font-weight: bold;
+
+}
+.form-group input,
+.form-group select
+{
+  color: #000;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+.sidebar {
+  display: none;
+}
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 20px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #006687;
+    border-right: 1px solid #eee;
+  }
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+.nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 13px;
+  color: #FFF;
+}
+
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus,
+.nav-sidebar > li > a:hover {
+  color: #fff;
+  background-color: #008CBA;
+
+}
+.nav-sidebar > .active > a {
+    border: none;
+}
+.menu > li {
+  border-bottom: none;
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 10px 0px;
+
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 20px;
+    padding-left: 20px;
+
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}
+
+/* login*/
+.login { margin-top: 15em;}
+
+.actions {
+  text-align: center;
+
+}
+
+.actions_buttons {
+  text-align: right;
+}
+.actions_many_btn{
+  width: 30%;
+}
+
+.title {
+  text-align: center;
+}
+.red {
+  color: #F04124;
+  font-weight: bold;
+}
+.green {
+  color: #43AC6A;
+  font-weight: bold;
+}

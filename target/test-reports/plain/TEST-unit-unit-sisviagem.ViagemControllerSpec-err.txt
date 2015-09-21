@@ -1,0 +1,2 @@
+--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--

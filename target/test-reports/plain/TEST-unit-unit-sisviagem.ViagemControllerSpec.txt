@@ -1,0 +1,13 @@
+Testsuite: sisviagem.ViagemControllerSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,149 sec
+------------- Standard Output ---------------
+--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+------------- ---------------- ---------------
+
+Testcase: Test the index action returns the correct model took 0,124 sec
+Testcase: Test that the show action returns the correct model took 0,019 sec

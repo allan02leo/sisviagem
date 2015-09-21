@@ -1,0 +1,16 @@
+Testsuite: sisviagem.MotoristaSpec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 1,843 sec
+------------- Standard Output ---------------
+--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade cnh--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade cnh--
+------------- ---------------- ---------------
+
+Testcase: test Contraints valid took 1,721 sec
+Testcase: test Contraints invalid took 0,026 sec
+Testcase: test unicidade cnh took 0,064 sec

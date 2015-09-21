@@ -1,0 +1,3 @@
+--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade placa--

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sbfnti" name="sisviagem.UserControllerSpec" tests="3" time="0.286" timestamp="2015-09-18T12:28:53">
+  <properties />
+  <testcase classname="sisviagem.UserControllerSpec" name="Test the index action returns the correct model" time="0.216" />
+  <testcase classname="sisviagem.UserControllerSpec" name="Test that the show action returns the correct model" time="0.031" />
+  <testcase classname="sisviagem.UserControllerSpec" name="Test that the edit action returns the correct model" time="0.027" />
+  <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-out>
+  <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-err>
+</testsuite>

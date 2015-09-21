@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sbfnti" name="sisviagem.SolicitacaoControllerSpec" tests="3" time="1.636" timestamp="2015-09-18T12:28:51">
+  <properties />
+  <testcase classname="sisviagem.SolicitacaoControllerSpec" name="Test the index action returns the correct model" time="1.393" />
+  <testcase classname="sisviagem.SolicitacaoControllerSpec" name="Test the create action returns the correct model" time="0.036" />
+  <testcase classname="sisviagem.SolicitacaoControllerSpec" name="Test the save action correctly persists an instance" time="0.192" />
+  <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+]]></system-out>
+  <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+]]></system-err>
+</testsuite>

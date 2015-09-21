@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sbfnti" name="sisviagem.MotoristaSpec" tests="3" time="1.843" timestamp="2015-09-18T12:28:49">
+  <properties />
+  <testcase classname="sisviagem.MotoristaSpec" name="test Contraints valid" time="1.721" />
+  <testcase classname="sisviagem.MotoristaSpec" name="test Contraints invalid" time="0.026" />
+  <testcase classname="sisviagem.MotoristaSpec" name="test unicidade cnh" time="0.064" />
+  <system-out><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade cnh--
+]]></system-out>
+  <system-err><![CDATA[--Output from test Contraints valid--
+--Output from test Contraints invalid--
+--Output from test unicidade cnh--
+]]></system-err>
+</testsuite>
